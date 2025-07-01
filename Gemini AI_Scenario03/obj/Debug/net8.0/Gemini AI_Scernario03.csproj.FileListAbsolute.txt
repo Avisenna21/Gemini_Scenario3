@@ -1,0 +1,15 @@
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Gemini AI_Scernario03\bin\Debug\net8.0\Gemini AI_Scernario03.exe
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Gemini AI_Scernario03\bin\Debug\net8.0\Gemini AI_Scernario03.deps.json
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Gemini AI_Scernario03\bin\Debug\net8.0\Gemini AI_Scernario03.runtimeconfig.json
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Gemini AI_Scernario03\bin\Debug\net8.0\Gemini AI_Scernario03.dll
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Gemini AI_Scernario03\bin\Debug\net8.0\Gemini AI_Scernario03.pdb
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Gemini AI_Scernario03\obj\Debug\net8.0\Gemini AI_Scernario03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Gemini AI_Scernario03\obj\Debug\net8.0\Gemini AI_Scernario03.AssemblyInfoInputs.cache
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Gemini AI_Scernario03\obj\Debug\net8.0\Gemini AI_Scernario03.AssemblyInfo.cs
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Gemini AI_Scernario03\obj\Debug\net8.0\Gemini AI_Scernario03.csproj.CoreCompileInputs.cache
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Gemini AI_Scernario03\obj\Debug\net8.0\Gemini AI_Scernario03.sourcelink.json
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Gemini AI_Scernario03\obj\Debug\net8.0\Gemini AI_Scernario03.dll
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Gemini AI_Scernario03\obj\Debug\net8.0\refint\Gemini AI_Scernario03.dll
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Gemini AI_Scernario03\obj\Debug\net8.0\Gemini AI_Scernario03.pdb
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Gemini AI_Scernario03\obj\Debug\net8.0\Gemini AI_Scernario03.genruntimeconfig.cache
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Gemini AI_Scernario03\obj\Debug\net8.0\ref\Gemini AI_Scernario03.dll
